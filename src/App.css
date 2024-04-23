@@ -24,6 +24,19 @@
   color: white;
 }
 
+button {
+  background-color: #282c34;
+  color: white;
+  border: 1px solid white;
+  padding: 10px;
+
+}
+img{
+  width: 250px;
+  object-fit: cover;
+  object-position: center;
+}
+
 .App-link {
   color: #61dafb;
 }
